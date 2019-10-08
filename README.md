@@ -1,4 +1,3 @@
-# Telecom-Customer-Churn
 # Building predictive models to predict customer churn rate of a telecom company
 
 # Why this project?
