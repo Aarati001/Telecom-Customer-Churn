@@ -1,7 +1,7 @@
 # Building predictive models to predict customer churn rate of a telecom company
 
+<img src="screenshots/images.png" width="800" />
 
-![Alt textimg](screenshots/images.png)<img src="screenshots/images.png" width=800/> #![](screenshots/images.png)
 
 
 # Why this project?
