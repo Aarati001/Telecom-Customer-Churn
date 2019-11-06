@@ -1,5 +1,5 @@
 # Building predictive models to predict customer churn rate of a telecom company
-![testimage](https://github.com/Aarati001/Telecom-Customer-Churn/blob/master/images.png)
+![testimage](https:\\github.com\Aarati001\Telecom-Customer-Churn\blob\master\images.png)
 # Why this project?
 Customer churn is one of the most important factors for a growing business.While every telecom company wants to make the business as profitable as possible, the growth rate also dependds on the no.of customers using their services.As the number of customers decreases, the company also faces a loss.So churn rate(Possibility of a customer leaving a company or moving to another company) needs to be predicted to retain customers.
 
